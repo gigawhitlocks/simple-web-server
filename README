@@ -1,3 +1,3 @@
 This is a Web Server I implemented over the course of about two days for CS252 at Purdue. It has both multithreading and multiprocess modes; pool-of-threads was not implemented due to time constraints.
 
-Some of the files are leftover from examples provided by the professor. The majority of the interesting code is in myhttpd.cc
+Some of the files are leftover from examples provided by the professor. The majority of the interesting code is in myhttpd.cpp
